@@ -1,5 +1,7 @@
 # COMMAND
 
+- `rm -rf PUBLIC_CLOONING`
+
 - `pkg update`
 
 - `pkg upgrade`
